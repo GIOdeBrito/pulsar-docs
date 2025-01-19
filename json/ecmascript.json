@@ -2,19 +2,19 @@
 	{
 		"displayText": "/**",
 		"type": "",
-		"description": "Adds a jsDoc comment.",
-		"snippet": "/** \n*\n */"
+		"description": "Add a jsDoc comment.",
+		"snippet": "/**\n *\n */"
 	},
 	{
 		"displayText": "@param",
 		"type": "",
-		"description": "Adds a jsDoc parameter tag.",
+		"description": "Add a jsDoc parameter tag.",
 		"snippet": "@param {*} ${1:varname}"
 	},
 	{
-		"displayText": "@author",
+		"displayText": "author",
 		"type": "",
-		"description": "Adds a jsDoc parameter tag.",
-		"snippet": "@param {*} ${1:name}"
+		"description": "Add a jsDoc parameter tag.",
+		"snippet": "@param {*} ${1:author}\n"
 	}
 ]
